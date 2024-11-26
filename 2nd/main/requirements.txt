@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-requests
-python-dotenv
-pandas
-sqlalchemy
-psycopg2-binary
-Jinja2
